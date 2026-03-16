@@ -5,39 +5,26 @@
 </p>
 
 <p align="center">
-  I build polished interfaces, full-stack solutions, and practical tools with a strong focus on usability, consistency, and clean implementation.
+  <a href="mailto:emanuelca.eca2@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">LinkedIn</a> •
+  <a href="https://github.com/YOUR-GITHUB-USERNAME">GitHub</a> •
+  <a href="https://YOUR-PORTFOLIO-LINK.com">Portfolio</a>
 </p>
 
 <p align="center">
-  <a href="mailto:emanuelca.eca2@gmail.com">
-    <img src="https://img.shields.io/badge/Email-emanuelca.eca2%40gmail.com-0df2f2?style=for-the-badge&logo=gmail&logoColor=black" alt="Email badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/TU-LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-a855f7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" />
-  </a>
-  <a href="https://TU-PORTAFOLIO.com">
-    <img src="https://img.shields.io/badge/Portfolio-Live-102222?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio badge" />
-  </a>
-</p>
-
----
-
-## Tech Stack
-
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,js,ts,firebase,mongodb,postgres,cpp,tailwind,git&theme=dark" alt="Tech stack icons" />
-  </a>
+  <img
+    src="https://skillicons.dev/icons?i=react,js,ts,firebase,mongodb,postgres,cpp,tailwind,git"
+    alt="Tech stack icons"
+  />
 </p>
 
 ---
 
 ## About Me
 
-- Full-stack and frontend-oriented developer
-- Experience with responsive interfaces, debugging, and UI improvements
-- Background in AI evaluation, rubric creation, and repository review
-- Interested in building reliable products for web and mobile environments
+I am a software developer with experience in React, JavaScript, TypeScript, Firebase, MongoDB, and PostgreSQL, along with working knowledge of C++. I enjoy building responsive interfaces, improving usability, and developing practical solutions for web and mobile environments.
+
+My background also includes debugging, UI improvements, testing workflows, and AI evaluation, where I compared model outputs, created rubrics, and reviewed repository changes with close attention to quality and consistency.
 
 ---
 
@@ -45,42 +32,31 @@
 
 | Project | Description | Stack | Links |
 |---|---|---|---|
-| **Water Management System** | Full-stack system for managing water service records, user data, and operational workflows for a local organization. | React, JavaScript, MongoDB | [Live Demo](https://TU-DEMO-1.com) • [Code](https://github.com/TU-USUARIO/TU-REPO-1) |
-| **Collaborative Task Board** | Responsive task management interface designed for organizing workflows, statuses, and team progress. | TypeScript, Firebase, Tailwind | [Live Demo](https://TU-DEMO-2.com) • [Code](https://github.com/TU-USUARIO/TU-REPO-2) |
-| **Modern Portfolio Website** | Dark-themed developer portfolio with a recruiter-focused layout, polished UI, and responsive presentation. | React, Tailwind | [Live Demo](https://TU-DEMO-3.com) • [Code](https://github.com/TU-USUARIO/TU-REPO-3) |
-| **AI Evaluation Workflow** | Case-study style project showing AI response comparison, rubric design, and quality-focused review workflows. | AI Evaluation, Rubrics, Code Review | [Case Study](https://TU-CASO-4.com) |
+| Water Management System | Full-stack system built for a local community organization to manage water service records, users, and workflows across web and mobile devices. | React, JavaScript, MongoDB | [Demo](#) · [Code](#) |
+| Collaborative Task Board | Responsive platform designed to organize tasks, statuses, and workflow updates with a clean interface and real-time handling. | TypeScript, Firebase, Tailwind | [Demo](#) · [Code](#) |
+| Modern Portfolio Website | Dark-themed portfolio focused on responsive layout, polished presentation, and a recruiter-friendly structure. | React, Tailwind | [Demo](#) · [Code](#) |
+| AI Response Evaluation Workflow | Case-study style project centered on comparing AI outputs, creating rubrics, and reviewing repository changes for quality and consistency. | AI Evaluation, Rubrics, Code Review | [Case Study](#) |
 
 ---
 
-## Experience
+## What I Work With
 
-<details>
-  <summary>Open</summary>
-
-- **AI Evaluation Specialist (Contract)** - Outlier  
-  Evaluated AI-generated responses, created scoring rubrics, and reviewed repository-level changes with attention to quality and consistency.
-
-- **Full Stack Developer (Contract)** - OTB Molle Molle  
-  Developed a responsive water management system for web and mobile environments using React, JavaScript, and MongoDB.
-
-- **Computerized Information Technician (Contract)** - Departmental Electoral Tribunal  
-  Provided support for certificate-related administrative processes, handling records with accuracy and attention to detail.
-
-</details>
+- Frontend: React, JavaScript, TypeScript, Tailwind CSS
+- Backend / Data: Firebase, MongoDB, PostgreSQL
+- Other: Git, C++, Testing, AI Evaluation
 
 ---
 
 ## Current Focus
 
-- Improving frontend quality and responsiveness
-- Building stronger portfolio projects
-- Expanding full-stack work with MongoDB and PostgreSQL
-- Strengthening professional presentation for job opportunities
+- Building responsive and user-centered web applications
+- Strengthening full-stack development skills
+- Improving UI quality, debugging workflows, and project presentation
 
 ---
 
 ## Contact
 
-- Email: **emanuelca.eca2@gmail.com**
-- LinkedIn: **https://www.linkedin.com/in/TU-LINKEDIN**
-- Portfolio: **https://TU-PORTAFOLIO.com**
+- Email: emanuelca.eca2@gmail.com
+- LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME
+- Portfolio: https://YOUR-PORTFOLIO-LINK.com
