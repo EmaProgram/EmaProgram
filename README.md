@@ -1,9 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="TU-BANNER-DARK.png">
-  <source media="(prefers-color-scheme: light)" srcset="TU-BANNER-LIGHT.png">
-  <img alt="Emanuel Carpio banner" src="TU-BANNER-DARK.png">
-</picture>
-
 # Emanuel Carpio
 
 Software Developer focused on React, TypeScript, MongoDB, PostgreSQL, and responsive web applications.
