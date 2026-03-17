@@ -26,7 +26,7 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,js,ts,firebase,mongodb,postgres,cpp,tailwind,git&theme=dark" alt="Tech stack icons" />
+    <img src="https://skillicons.dev/icons?i=react,js,ts,py,firebase,mongodb,postgres,cpp,tailwind,git&theme=dark" alt="Tech stack icons" />
   </a>
 </p>
 
