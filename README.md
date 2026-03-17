@@ -51,10 +51,10 @@
 
 | Project | Description | Stack | Links |
 |---|---|---|---|
-| **Water Management System** | Full-stack system for managing water service records, user data, and operational workflows for a local organization. | React, JavaScript, MongoDB | [Live Demo](https://TU-DEMO-1.com) • [Code](https://github.com/TU-USUARIO/TU-REPO-1) |
-| **Collaborative Task Board** | Responsive task management interface designed for organizing workflows, statuses, and team progress. | TypeScript, Firebase, Tailwind | [Live Demo](https://TU-DEMO-2.com) • [Code](https://github.com/TU-USUARIO/TU-REPO-2) |
-| **Modern Portfolio Website** | Dark-themed developer portfolio with a recruiter-focused layout, polished UI, and responsive presentation. | React, Tailwind | [Live Demo](https://TU-DEMO-3.com) • [Code](https://github.com/TU-USUARIO/TU-REPO-3) |
-| **AI Evaluation Workflow** | Case-study style project showing AI response comparison, rubric design, and quality-focused review workflows. | AI Evaluation, Rubrics, Code Review | [Case Study](https://TU-CASO-4.com) |
+| **Water Management System** | Full-stack system for managing water service records, user data, and operational workflows for a local organization. | React, JavaScript, MongoDB|
+| **Collaborative Task Board** | Responsive task management interface designed for organizing workflows, statuses, and team progress. | TypeScript, Firebase, Tailwind |
+| **Modern Portfolio Website** | Dark-themed developer portfolio with a recruiter-focused layout, polished UI, and responsive presentation. | React, Tailwind |
+| **AI Evaluation Workflow** | Case-study style project showing AI response comparison, rubric design, and quality-focused review workflows. | AI Evaluation, Rubrics, Code Review |
 
 ---
 
