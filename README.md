@@ -12,7 +12,7 @@
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=emanuelca.eca2@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-111827?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail badge" />
   </a>
-  <a href="https://www.linkedin.com/in/TU-LINKEDIN">
+  <a href="[https://www.linkedin.com/in/TU-LINKEDIN](https://www.linkedin.com/in/emanuel-angel-carpio-achacollo-972a30337)">
     <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn badge" />
   </a>
   <a href="https://TU-PORTAFOLIO.com">
@@ -50,7 +50,7 @@
 ## Featured Projects
 
 | Project | Description | Stack |
-|---|---|---|---|
+|---|---|---|
 | **Water Management System** | Full-stack system for managing water service records, user data, and operational workflows for a local organization. | React, JavaScript, MongoDB|
 | **Collaborative Task Board** | Responsive task management interface designed for organizing workflows, statuses, and team progress. | TypeScript, Firebase, Tailwind |
 | **Modern Portfolio Website** | Dark-themed developer portfolio with a recruiter-focused layout, polished UI, and responsive presentation. | React, Tailwind |
