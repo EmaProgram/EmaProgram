@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <a href="mailto:emanuelca.eca2@gmail.com">
-    <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email badge" />
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=emanuelca.eca2@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-111827?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail badge" />
   </a>
   <a href="https://www.linkedin.com/in/TU-LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn badge" />
