@@ -49,7 +49,7 @@
 
 ## Featured Projects
 
-| Project | Description | Stack | Links |
+| Project | Description | Stack |
 |---|---|---|---|
 | **Water Management System** | Full-stack system for managing water service records, user data, and operational workflows for a local organization. | React, JavaScript, MongoDB|
 | **Collaborative Task Board** | Responsive task management interface designed for organizing workflows, statuses, and team progress. | TypeScript, Firebase, Tailwind |
