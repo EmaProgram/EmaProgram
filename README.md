@@ -1,7 +1,7 @@
 <h1 align="center">Emanuel Carpio</h1>
 
 <p align="center">
-  Software Developer focused on React, TypeScript, MongoDB, PostgreSQL, and responsive web applications.
+  <strong>Software Developer focused on React, TypeScript, MongoDB, PostgreSQL, and responsive web applications.</strong>
 </p>
 
 <p align="center">
@@ -10,14 +10,20 @@
 
 <p align="center">
   <a href="mailto:emanuelca.eca2@gmail.com">
-    <img src="https://img.shields.io/badge/Email-emanuelca.eca2%40gmail.com-0df2f2?style=for-the-badge&logo=gmail&logoColor=black" alt="Email badge" />
+    <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email badge" />
   </a>
   <a href="https://www.linkedin.com/in/TU-LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-a855f7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" />
+    <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn badge" />
   </a>
   <a href="https://TU-PORTAFOLIO.com">
-    <img src="https://img.shields.io/badge/Portfolio-Live-102222?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio badge" />
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=ffffff" alt="Portfolio badge" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Cochabamba-Bolivia-111827?style=flat-square&logo=googlemaps&logoColor=34A853" alt="Location badge" />
+  <img src="https://img.shields.io/badge/Open%20to-Work-111827?style=flat-square&logo=handshake&logoColor=22C55E" alt="Open to work badge" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%26%20Frontend-111827?style=flat-square&logo=codefactor&logoColor=38BDF8" alt="Focus badge" />
 </p>
 
 ---
@@ -26,7 +32,7 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,js,ts,py,firebase,mongodb,postgres,cpp,tailwind,git&theme=dark" alt="Tech stack icons" />
+    <img src="https://skillicons.dev/icons?i=react,js,py,ts,firebase,mongodb,postgres,cpp,tailwind,git&theme=dark" alt="Tech stack icons" />
   </a>
 </p>
 
@@ -57,6 +63,8 @@
 <details>
   <summary>Open</summary>
 
+<br>
+
 - **AI Evaluation Specialist (Contract)** - Outlier  
   Evaluated AI-generated responses, created scoring rubrics, and reviewed repository-level changes with attention to quality and consistency.
 
@@ -67,15 +75,6 @@
   Provided support for certificate-related administrative processes, handling records with accuracy and attention to detail.
 
 </details>
-
----
-
-## Current Focus
-
-- Improving frontend quality and responsiveness
-- Building stronger portfolio projects
-- Expanding full-stack work with MongoDB and PostgreSQL
-- Strengthening professional presentation for job opportunities
 
 ---
 
